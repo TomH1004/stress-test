@@ -1,0 +1,123 @@
+Initialize engine version: 5.6.0f3 (497a0f351392)
+GfxDevice: creating device client; threaded=1
+VR: OpenVR Error! OpenVR failed initialization with error code VRInitError_Init_PathRegistryNotFound: "Installation path could not be located (110)"!
+ 
+(Filename:  Line: 1028)
+
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce RTX 3060 Laptop GPU (ID=0x2520)
+    Vendor:   NVIDIA
+    VRAM:     6023 MB
+    Driver:   30.0.14.9649
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\VR\SOURCE_CODE\source_Stress\falling_rooms\StressA_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\VR\SOURCE_CODE\source_Stress\falling_rooms\StressA_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\VR\SOURCE_CODE\source_Stress\falling_rooms\StressA_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\VR\SOURCE_CODE\source_Stress\falling_rooms\StressA_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\VR\SOURCE_CODE\source_Stress\falling_rooms\StressA_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\VR\SOURCE_CODE\source_Stress\falling_rooms\StressA_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: D:\VR\SOURCE_CODE\source_Stress\falling_rooms\StressA_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading D:\VR\SOURCE_CODE\source_Stress\falling_rooms\StressA_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: D:\VR\SOURCE_CODE\source_Stress\falling_rooms\StressA_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading D:\VR\SOURCE_CODE\source_Stress\falling_rooms\StressA_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+Platform assembly: D:\VR\SOURCE_CODE\source_Stress\falling_rooms\StressA_Data\Managed\UnityEngine.VR.dll (this message is harmless)
+Loading D:\VR\SOURCE_CODE\source_Stress\falling_rooms\StressA_Data\Managed\UnityEngine.VR.dll into Unity Child Domain
+- Completed reload, in  0.325 seconds
+Platform assembly: D:\VR\SOURCE_CODE\source_Stress\falling_rooms\StressA_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: D:\VR\SOURCE_CODE\source_Stress\falling_rooms\StressA_Data\Managed\System.dll (this message is harmless)
+<RI> Initializing input.
+XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
+<RI> Input initialized.
+desktop: 1920x1080 60Hz; virtual: 2304x2592 at 0,0
+<RI> Initialized touch support.
+VR: OpenVR Error! OpenVR failed initialization with error code VRInitError_Init_PathRegistryNotFound: "Installation path could not be located (110)"!
+ 
+(Filename:  Line: 1028)
+
+VR: OpenVR Error! OpenVR failed initialization with error code VRInitError_Init_PathRegistryNotFound: "Installation path could not be located (110)"!
+ 
+(Filename:  Line: 1028)
+
+UnloadTime: 2.243500 ms
+0.1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+0.1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+0.1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+0.1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+0.1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+0.1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+0.1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+0.1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+0.1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+0.1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+0.1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+0.1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+0.1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+0.1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+0.1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Setting up 8 worker threads for Enlighten.
+  Thread -> id: 5b38 -> priority: 1 
+  Thread -> id: 806c -> priority: 1 
+  Thread -> id: 34c -> priority: 1 
+  Thread -> id: 4b64 -> priority: 1 
+  Thread -> id: 7cf4 -> priority: 1 
+  Thread -> id: 5ff0 -> priority: 1 
+  Thread -> id: 8af8 -> priority: 1 
+  Thread -> id: 3a24 -> priority: 1 
+corr: 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+DISPLAY: 2.95
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+corr: 1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+

@@ -11,7 +11,7 @@ using System.Linq;
 public class personCollider : MonoBehaviour {
 
 
-    private string subID2_file = "C:/AI4Coping/ForestBathing/IMVEST-Stress-Test/ExperimentData/PersonColliderData.txt";
+    private string subID2_file;
     public int participant_id;
     public string subID2;
     public int trialnr;
@@ -109,6 +109,7 @@ public class personCollider : MonoBehaviour {
     void Start()
     {
         subject_id = UnityEngine.Random.Range(10000, 99999);
+        subID2_file = Path.Combine(Application.persistentDataPath, "PersonColliderData.txt");
 
         
         trialnr = 0;
@@ -478,7 +479,7 @@ public class personCollider : MonoBehaviour {
         }
 
         // if (step==0 && (Input.GetKeyUp("space")|| SteamVR_Controller.Input(deviceIndexController).GetPressUp(SteamVR_Controller.ButtonMask.Grip)))
-        if (step==0 && (Input.GetKeyUp("space")))  //|| OVRInput.GetDown(OVRInput.RawButton.Y)))
+        if (step==0 && (Input.GetKeyUp("space")  || OVRInput.GetDown(OVRInput.RawButton.Y)))
         {
             step = -1;
             StopAllCoroutines();
@@ -486,7 +487,7 @@ public class personCollider : MonoBehaviour {
         }
 
         // if (step == 1 && (Input.GetKeyUp("space") || SteamVR_Controller.Input(deviceIndexController).GetPressUp(SteamVR_Controller.ButtonMask.Grip)))
-        if (step==1 && (Input.GetKeyUp("space")))  //|| OVRInput.GetDown(OVRInput.RawButton.Y)))
+        if (step==1 && (Input.GetKeyUp("space")  || OVRInput.GetDown(OVRInput.RawButton.Y)))
         {
             step = -1;
             StopAllCoroutines();
